@@ -1,0 +1,8 @@
+print("Your Mobile Phone is Hacked...")
+time.sleep(2)
+
+print("Your Passwords Are Transferring...")
+time.sleep(2)
+
+print("Your Files Are Transferring...")
+time.sleep(2)
